@@ -6,7 +6,7 @@
 Клиент для веб-фотохостинга Flickr, который будет загружать и отображать самые интересные общедоступные фото, отправленные на Flickr.
 <img src="https://github.com/BelDim04/bignerdranchPhotoGallery/blob/master/Screenshot_20210718-113300.png" alt="Иллюстрация" width="270"/>
 ## Приобретённые навыки
-- Работа с сетью
-- Многопоточность
+- Основы работы с сетью
+- Основы многопоточности
 ## Скачать
 [PhotoGallery.apk](https://github.com/BelDim04/bignerdranchPhotoGallery/blob/master/PhotoGallery.apk)
